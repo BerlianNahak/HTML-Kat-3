@@ -1,0 +1,74 @@
+body{ 
+    background-image: url(/assets/Menikmati-senja.jpg);
+    background-size: cover;
+    background-attachment: fixed;}
+
+.menubutton{
+    max-width: 30px;
+    max-height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -5px;
+    list-style: none;
+    float: right;
+}
+
+.bodytext{
+    margin-top: 300px;
+    text-align: center;
+    justify-content: center;
+    font-family: "Chakra Petch", sans-serif ;
+    font-weight: 600;
+    font-style: normal;
+}
+.menu_countainer{
+    font-family: "Chakra Petch", sans-serif ;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    color: #341024;
+    font-size: 15px;
+    margin-top: 5%;
+    text-decoration: none;
+    list-style-type: none;
+    gap: 40px
+    
+    
+}
+
+.login{
+    border: #341024 solid;
+    border-radius: 18px ;
+    width: 8%;
+    height: 20px;
+}
+
+.menikmati{
+    text-align: center;
+    font-size: 80px;
+}
+.tagline{
+    margin-top: -3%;
+}
+.bodytext{ margin-top: 15%;
+
+}
+button {
+    background-color: #3C1630;
+    border-radius: 13px;
+    border: none;
+    width: 8%;
+    height: 30px;
+    margin-top: 30px;
+    color:white;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
